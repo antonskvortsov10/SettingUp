@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/antonskvortsov10/test/issues"
   },
-  "homepage": "https://github.com/antonskvortsov10/test#readme"
+  "homepage": "https://github.com/antonskvortsov10/test#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
