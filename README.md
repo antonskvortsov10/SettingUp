@@ -1,2 +1,2 @@
 # test
-Test project
+Configuring front-end app
